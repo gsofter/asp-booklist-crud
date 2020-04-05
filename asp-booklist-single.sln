@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29926.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp-booklist-single", "asp-booklist-single\asp-booklist-single.csproj", "{F442D282-5E32-491C-B519-12CD9FE0B5AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F442D282-5E32-491C-B519-12CD9FE0B5AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F442D282-5E32-491C-B519-12CD9FE0B5AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F442D282-5E32-491C-B519-12CD9FE0B5AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F442D282-5E32-491C-B519-12CD9FE0B5AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {091BFE09-755C-46A1-87E7-7C890CBFF66B}
+	EndGlobalSection
+EndGlobal
